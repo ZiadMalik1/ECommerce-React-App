@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ECommerce-React-App/static/css/main.18f0e3e0.css",
+    "main.js": "/ECommerce-React-App/static/js/main.4a6bb1a8.js",
+    "static/js/787.27d760c9.chunk.js": "/ECommerce-React-App/static/js/787.27d760c9.chunk.js",
+    "static/media/Back-pack.png": "/ECommerce-React-App/static/media/Back-pack.7985d16c45c578a3b907.png",
+    "static/media/Logo.png": "/ECommerce-React-App/static/media/Logo.ea887dc03bd70ac4ca12.png",
+    "static/media/Homepage.png": "/ECommerce-React-App/static/media/Homepage.a8a558d1b5e942bb1a76.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ECommerce-React-App/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/face1.png": "/ECommerce-React-App/static/media/face1.67e2f38ff8cfad307e80.png",
+    "static/media/fontawesome-webfont.eot": "/ECommerce-React-App/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ECommerce-React-App/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/ios.png": "/ECommerce-React-App/static/media/ios.a7c8ca28b4475c3b088b.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ECommerce-React-App/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ECommerce-React-App/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/category-3.jpeg": "/ECommerce-React-App/static/media/category-3.343a50f3901f01b1786a.jpeg",
+    "static/media/category-1.jpg": "/ECommerce-React-App/static/media/category-1.f309ec3b8f9ca642a2d1.jpg",
+    "static/media/category-2.jpg": "/ECommerce-React-App/static/media/category-2.97ecdf7bef728f155ad0.jpg",
+    "static/media/paypal.png": "/ECommerce-React-App/static/media/paypal.5eead7ef3a7f7d9677e4.png",
+    "static/media/Cart.png": "/ECommerce-React-App/static/media/Cart.19c60e8b1f2ad815b45d.png",
+    "index.html": "/ECommerce-React-App/index.html",
+    "main.18f0e3e0.css.map": "/ECommerce-React-App/static/css/main.18f0e3e0.css.map",
+    "main.4a6bb1a8.js.map": "/ECommerce-React-App/static/js/main.4a6bb1a8.js.map",
+    "787.27d760c9.chunk.js.map": "/ECommerce-React-App/static/js/787.27d760c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f0e3e0.css",
+    "static/js/main.4a6bb1a8.js"
+  ]
+}
